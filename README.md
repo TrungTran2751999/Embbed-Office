@@ -1,2 +1,2 @@
-- pptx có thể sửa footer được nhưng khi nhúng excel, word thì không (view.officeapps.live.com ) (index2)
+- pptx có thể sửa footer (phân quyền người xem) được nhưng khi nhúng excel, word thì không (view.officeapps.live.com ) (index2)
 - pdf thì phải nhúng trong docs.google.com (index)
